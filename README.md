@@ -6,7 +6,7 @@ Attention Mechanism이 자연어 처리에서 주어와 동사의 거리가 긴 
 
 중의어의 Disambiguity를 해소한다는 논문이다.
 
-## 2. 
+## 2. Pay less attetion with lightweight and dynamic convolutions
 
 ## 2. Attention Transfer
 기존의 Knowledge Distillation의 경우 Soft-max Output을 이용해 Student Model의 퍼포먼스를 Teacher와 비슷한 수준으로 맞추는 모델이었다.
